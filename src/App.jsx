@@ -8,7 +8,7 @@ import Contact from "./Pages/Contact";
 function App() {
   return (
     <>
-      <Header className="mb-0" />
+      <Header />
       <main className="pt-0"> 
         <section id="about" className="pt-20 "> 
           <AboutMe />
