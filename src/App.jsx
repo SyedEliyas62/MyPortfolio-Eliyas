@@ -1,14 +1,16 @@
-import Header from "./components/Header";
-import AboutMe from "./Pages/AboutMe";
-import Projects from "./Pages/Projects";
-import Skills from "./Pages/Skills";
-import Education from "./Pages/Eduaction";
-import Contact from "./Pages/Contact";
+
+import AboutMe from "./Pages/AboutMe.jsx";
+import Projects from "./Pages/Projects.jsx";
+import Skills from "./Pages/Skills.jsx";
+import Education from "./Pages/Eduaction.jsx";
+import Contact from "./Pages/Contact.jsx";
+import Header from "./Components/Header.jsx";
+
 
 function App() {
   return (
     <>
-      <Header />
+     <Header/>
       <main className="pt-0"> 
         <section id="about" className="pt-20 "> 
           <AboutMe />
