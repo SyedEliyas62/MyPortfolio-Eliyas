@@ -92,21 +92,21 @@ const AboutMe = () => {
           className="hidden md:flex flex-col gap-4 absolute right-[-70px] top-1/2 transform -translate-y-1/2"
         >
           <a
-            href=""
+            href="https://www.linkedin.com/in/syed-eliyas-15093826a/"
             target="_blank"
             className="bg-teal-500 text-white px-6 py-3 rounded-xl text-center font-bold tracking-widest hover:bg-teal-600 transition"
           >
             LINKEDIN
           </a>
           <a
-            href=""
+            href="https://github.com/SyedEliyas62"
             target="_blank"
             className="bg-white text-teal-600 border-2 border-teal-600 px-6 py-3 rounded-xl text-center font-bold tracking-widest hover:bg-teal-50 transition"
           >
             GITHUB
           </a>
           <a
-            href=""
+            href="https://x.com/SyedEliyas95125"
             target="_blank"
             className="bg-teal-500 text-white px-6 py-3 rounded-xl text-center font-bold tracking-widest hover:bg-teal-600 transition"
           >
